@@ -1,0 +1,33 @@
+.strikethrough {
+    text-decoration: line-through;
+    font-weight: 600;
+}
+
+.unchecked {
+    text-decoration: none;
+}
+
+.container {
+    text-align: center;
+    padding: 70px 0;
+}
+
+ul{
+    text-align: left;
+    padding: 70px 0;
+
+}
+
+li{
+    width:600px;
+    margin-bottom: 20px;
+    font-size: large;
+    
+}
+
+.button{
+
+    width: 80px
+}
+
+
